@@ -13,7 +13,6 @@ library(jsonlite)
 library(knitr)
 library(kableExtra)
 library(dplyr)
-library(igraph)
 ```
 
 # Problem Statement
